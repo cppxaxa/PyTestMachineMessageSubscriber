@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 from flask import Flask, jsonify, request, Request
 app = Flask(__name__)
